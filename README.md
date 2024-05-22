@@ -1,4 +1,14 @@
 # 311 Service Request Data Analysis for Kansas City
+## Connection Instruction
+reference the link to open data website:https://data.kcmo.org/311/311-Call-Center-Service-Requests-2007-March-2021/7at3-sxhp/about_data
+The dataset is modified to blend towards course content, hence use the one drive zip file.
+
+Once you unzip the file there will be a TSV file which you will be using. 
+
+1. Use Alteryx to profile your TSV data using the ymd file.
+2. alternatively use ydataprofilling using jupyternotebook uploaded
+3. Use winrar to extract the Talend ETL file . Connect to ur local database and start running all the corresponding jobs to get the Dimension and FACT table.
+4. After loading , connect ur db to POWER BI and Tablue files in the repository .
 
 ## Executive Summary
 This report offers a comprehensive analysis of Kansas City, MO's 311 service request data from the inception of the system until March 2021. The dataset contains approximately 1.56 million records, each representing a distinct service request. The goal of this analysis is to uncover insights into data structure, quality, and to identify trends and patterns that can drive operational improvements.
@@ -101,3 +111,6 @@ Key analysis questions addressed:
 
 ## Conclusion
 The 311 service request data for Kansas City is of excellent quality, with a manageable proportion of missing values and no duplicates. This analysis provides detailed insights into the dataset's structure and quality, offering recommendations for operational improvements. Continued monitoring and integration of new data will ensure ongoing service enhancements and citizen satisfaction.
+
+
+     Thanks for your patience and support !
