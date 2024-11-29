@@ -1,6 +1,7 @@
 # 311 Service Request Data Analysis for Kansas City
 ## Connection Instruction
-reference the link to open data website:https://data.kcmo.org/311/311-Call-Center-Service-Requests-2007-March-2021/7at3-sxhp/about_data
+reference the link to open data website:[311 Call Center Service Requests: 2007 - March 2021](https://data.kcmo.org/311/311-Call-Center-Service-Requests-2007-March-2021/7at3-sxhp/about_data)
+
 The dataset is modified to blend towards course content, hence use the one drive zip file.
 
 Once you unzip the file there will be a TSV file which you will be using. 
